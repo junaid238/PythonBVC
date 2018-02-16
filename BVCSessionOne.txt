@@ -1,0 +1,95 @@
+Python
+------
+features of Python
+use cases of Python
+
+Basics Pyhton
+Collections 
+Functional Programming 
+OOPS
+Advanced topics 
+
+
+IDE's for pyhton
+----------------
+Terminal / CMD -- interpreter -- run 
+Editor -- sublime text , notepad++ -- CMD --run
+IDE -- editor and interpreter -- PyCharmCE
+
+Variables
+---------
+a small data bucket which has 
+	- value
+	- name
+	- address
+
+variable names -- identifiers
+small case
+no number start
+no symbol
+
+value -- any value 
+		-- data --types 
+		-- data types -- 5 
+		-- numbers -- int float double long 
+		-- strings -- char , string
+		-- Lists
+		-- Tuples 
+		-- Dictionries 
+
+		-- Sets
+
+address -- memory location
+
+
+a = 10 
+name --> a
+value --> 10
+data type -->number ( int )
+address --> ???
+
+b = 107648392460640346 
+name --> b
+value --> 107648392460640346
+data type -->number ( ??? )
+address --> ???
+
+data type --> type(varName)
+adress --> id(varName)
+
+Keywords 
+--------
+pre defined identifiers 
+cant change them 
+cant delete
+cant customise them 
+
+33 --> 31 used and 2 are reserved
+
+Numbers 
+-------
+operations
+	6 types 
+	  - arithmetic
+	  - logical 
+	  - bit wise
+	  - comparision
+	  - assigment
+	  - relational
+arithmetic -7
+	+ - * / % // and **
+
+	a = 25
+	b = 7
+
+a)b(3.5
+a/b   ---> quotient 3
+		--> 3.5 when either a or b is a float
+
+a//b
+
+
+
+task 1 --> highest possible int value 
+task 2 --> logical operators --> document 
+task 3 --> install sublime text / notepad++

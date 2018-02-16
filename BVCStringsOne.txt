@@ -1,0 +1,78 @@
+Python
+------
+
+Strings
+-------
+	- char
+	- group of chars
+	- Number as string 
+	- symbol
+
+name --> identifier
+String --> str
+
+- group of chars
+tech1 = 'Python'
+tech2 = "Python"
+
+name  -> tech
+value -> Python
+
+- char
+section = "C"
+
+- symbol
+and = "&"
+
+- Number as string 
+mobile = "9876543210"
+
+
+
+- Multiple line strings 
+		'''  '''
+para = '''sdfghjkl
+		dfghjkl
+		dfghjkl'''
+
+\n --> newline
+\t --> tab space 
+
+String literals
+---------------
+%d %f %s --> dynamic renderig of content 
+
+username ________
+password ________
+
+
+input u , p in DB
+take input from from data 
+
+"My Tech is %s" %("python")
+
+Strings 
+-------
+	- indexing
+	- slicing 
+	- concatenation 
+	- operations 
+
+class = "Training Python"
+
+- indexing -- breaking string into chars giving index to each 
+
+
+T r a i n i n g   P  y  t  h  o  n
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+                       -4 -3 -2 -1
+
+class[1] - r
+class[14]- n
+class[7] - g
+class[-1]- n
+
+
+docx
+try indexing ,rev index
+using string literals 

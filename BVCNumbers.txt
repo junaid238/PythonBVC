@@ -1,0 +1,55 @@
+Python
+------
+variables
+numbers 
+arithmetic operators
+logical - and not or
+
+comparision
+-----------
+two vars. ---> boolean --> T/F
+a>b ->T F
+< == >= <= !=
+
+Bit wise 
+--------
+10 --> 1010 --> 8(1) + 4(0) + 2(1) + 1(0) = 10
+20 --> ?? --> ???
+
+0 and 1
+
+bitwise and &
+bitwise or |
+bitwise not ~
+bitwise xor ^ exclusive or
+bitwise right shift  >>
+bitwise left  shift <<
+
+10 + 10  --> 20
+10 and 10 --> 10
+10 & 10 --> 10 XX --> 
+
+identity is is not
+membership in not in
+
+print --> get output on screen
+
+2.7 	and 	3.6
+cmd				method 
+XX()			()
+XXend=""		end = ""
+
+a= 10
+b= 20
+print --> 1020
+print(a)
+print(b)
+new line 
+
+print --> new lines
+
+print(a , end="")
+print(b)
+ 
+task - all operators
+
