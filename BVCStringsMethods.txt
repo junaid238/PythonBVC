@@ -1,0 +1,144 @@
+Python
+------
+String slicing 
+String indexing 
+	tech = "Python" 
+		p 	y	 t  	h	o	n --> 0 to n , -1 t0 -n
+
+getting group of chars from string
+	tech = "Python"   --> th 2 , 3 --> 2 to 4
+
+tech[3] -> h
+tech[5] -> n
+tech[2:4] -> "th" 
+tech[3:6] ->  ??
+tech[-4:-1] -> ??
+
+reverse 
+-------
+tech[10:1:-1]
+tech[::-1]
+
+tech[4] -> indexing 
+tech[1:4] -> slicing 
+tech[1:5:2] -> jump , step
+
+one -> only that
+one , two -> from one to two 
+one , two ,three -> from one to two without three  
+
+
+input = takes inputs from user
+
+raw_input() , input()--> 2.7
+input() ---> 3.6  --> strings
+
+
+Raw strings:
+------------
+/n /t --> " /t "
+path = "home/downloads/tutorials"
+
+path = r"home/downloads/tutorials"
+
+print(path)
+------------------------------
+tasks -> try slicing reversing and input
+
+------------------------------
+Operations on strings using methods
+-----------------------------------
+concat -- joinig of 2 strings 
+
+2 strings ===> +
+2 numbers ===> + arithmetic add
+1 string 1 number ===> , or %s %d %f 
+
+type casting - conv of DT 
+------------
+1) int -> str --> all
+2) str -> int --> numbers 
+
+
+n = "20" --> 20 ---> possible 
+m = "a"  --> XX ---> not possible
+
+a = 10 --> '10' --> possible
+
+chr to int -->ASCII - http://ee.hawaii.edu/~tep/EE160/Book/chap4/subsection2.1.1.1.html
+
+characters --> int --> ord()
+int --> characters --> chr()
+
+
+print("Python  " *3)
+
+
+Methods 
+-------
+callable
+obj ref 
+
+len()      				---> lenght of string 
+string.count(char)		---> count reptd chars
+string.count(char, start , end)
+
+string.startswith(char) , string.endswith(char) --> T/F
+in not in ---> check avaialablity --> T/F
+
+'P' in 'Python'
+
+
+upper()
+lower()
+swapcase()
+strip()
+split()
+join()
+replace()
+
+
+
+details = "Khan - Python - Lync - Training"
+string.strip('char')
+string.split('char')
+
+college = "BVC"
+'char'.join(string)
+
+dialouge = " Dont trouble the trouble, until the trouble troubles you. Iam not the trouble iam truth"
+
+string.replace('old' , 'new')
+
+conditional stmts
+=================
+condition --> T/F  --> compulsory 
+
+condition  --> T/F
+	T --> true stmt 
+	F --> false stmt 
+
+if
+if else 
+if elif else  
+
+
+{  } and ; 
+: and spaces 
+
+a=20
+b=30
+a+b   --> XX boolean stmts XX
+a>10  --> T
+
+if(a>10):
+	print("Hai")
+else:
+	print('Hello') 
+
+
+if a>10:
+	print("Hai")
+else:
+	print('Hello') 
+

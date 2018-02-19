@@ -1,0 +1,52 @@
+Khan -- Python 
+--------------
+Python ---> ???
+
+-> programming langugae
+-> high level language 
+-> scripting language
+
+3 use cases 
+-----------
+--> web development 
+--> scripting at OS level 
+--> Scientific programming 
+
+
+web development 
+---------------
+Language + framework => web / browser ==> output --> web application 
+
+Eg: facebook , Ola , Swiggy , Instagram etc..
+	php							python 
+
+Frameworks of Python -> Django(1) and Flask (6), rails  
+
+GUI / Desktop applications -->python --> ????  Task 1 
+
+0 ----> develop --> output
+
+Scripting 
+---------
+
+	input ---> OS -->output
+1) browser level / client side - js php
+2) server side  - php , js , ruby , python
+3) OS -- python , ruby 
+
+Scientific programming 
+----------------------
+
+Data sciences 
+machine learning 
+AI 
+deep learning 
+
+Python or " R "
+
+
+Image --> b/w 
+
+external libs --> py code --> advanced algorithms and lots of Data 
+
+

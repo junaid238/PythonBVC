@@ -1,0 +1,33 @@
+Python 
+------
+
+current version - 3.6 -- latest 
+
+				  2.7 -- most stable and used 
+
+Features 
+--------
+pure OOPS langauge
+dynamically typed
+interpreted
+open source  
+
+Installation 
+------------
+Laptops /Desktops -- 2.7 / 3.6 
+
+win86 -- python.org -- downloads -- run
+linux -- all -- ??? 
+		 ubuntu -- apt-get python
+mac -- already intalled 
+
+cmd / terminal 
+--------------
+python --> hit enter 
+
+2.7
+>>>
+
+
+
+

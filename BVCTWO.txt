@@ -1,0 +1,124 @@
+Python 
+======
+mkhan@digitallynctech.com --> tasks 
+
+2.7 0r 3.6 --> stable ver
+
+c/programs/python36 -->location /path
+make global ---XXX
+
+local install -->win86
+--> win86 --->global ---> control panel -->advance system settings --> path / system variable 
+
+linux , mac --> default -- global 
+
+------------------------------------
+components of oops programming language :
+	- variable 
+	- methods 
+	- classes 
+	- objects 
+
+
+grammar of code -- syntax:
+	{ } [] () , : ; # 
+indentation -- using of spaces and tabs to make code easy to read 
+	not compulsory -- all langauges
+	compulsory     -- python 
+
+Python = minimum syntax + maximum indentation
+
+================
+	---------
+	---------
+	---------
+		........
+		........
+		........
+	---------
+	---------
+		......
+		......
+
+syntax error--> syntaxes and indentations
+
+---------------------------------------------
+
+dynamically typed:
+-----------------
+java ---> int a = 10
+
+		10 - value -- number
+		a  - name of that number 
+
+		10.0 -- float 
+
+python ---> int a = 10 -->XXXX
+				a = 10 
+
+
+compiled vs interpreted 
+-----------------------
+c c++. java     --> compiled 
+ruby php python --> interpreted
+
+
+xyz = code 100lines --errors - 5 20 78 
+
+xyz -->compiler --> compile -->xyz compiled file errors at 5 20 78
+-->                rectify my errors --->compile ---> no errors --> run --> 
+                     output 
+
+xyz --> interpreter --> output till 4 error at 5 --> rectify at 5 ---> output till 19 error at 20 ---> rectify at 20 -->output till 77 error at 78
+--> rectify at 78 --> output 
+-----------------------------------------
+
+pure oops language
+
+all oops --> objects ---classes 
+python ---> everything is an object 
+a = 10
+----------------------------------------
+comments 
+--------
+demo.py --- 1000 lines of code + 10 lines of desc = comments 
+comments --> not interpreted , executed 
+
+#this is 1 comment --> not executed  
+#this is 2 comment 
+#this is 3 comment 
+#this is 4 comment 
+#this is 5 comment 
+
+
+1 -> 0.9 -->2.7 / 3.6
+2 -> 2.7
+3 -> 3.6.4
+4 -> 3.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
