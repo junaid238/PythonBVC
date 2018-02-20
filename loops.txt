@@ -1,0 +1,58 @@
+Python
+------
+Looping
+	-repetitions
+	- 3 requirements 
+		x - dummy var
+		condition - limit 
+		default - inc 
+
+	- numbers 
+	- strings 
+	- collections 
+
+for   - limited 
+while - infinite
+
+x=0 ; 
+for(; x<=10 ;){
+	print x;
+	x++;
+}
+
+Numbers loop
+------------
+min max 
+range() -->  ++
+range(max)     --> 0 to max
+range(min,max) --> min to max
+range(min,max,step) --> min to max skiping step
+range() -->  --
+range(max,min,-1) --> max to min
+
+for x in range(10):
+	print(x)
+
+Strings loop
+------------
+name = "python"
+name[0]
+name[1]
+name[2]
+name[3]
+
+for chars in nme:
+	print chars
+
+
+control statements 
+------------------
+pass 
+continue - exit and start once again at a condition
+break - exit loop at a condition 
+
+while 
+-----
+condition 
+stmt
+
