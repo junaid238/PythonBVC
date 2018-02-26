@@ -56,3 +56,7 @@ while
 condition 
 stmt
 
+Tasks 
+-----
+print prime and composite 1 to 100
+number pyramid

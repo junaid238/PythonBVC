@@ -1,0 +1,92 @@
+Collections
+-----------
+data structure 
+group of data
+	lists
+	linked lists
+	arrays
+	sets
+	hash sets
+	.
+	.
+	.
+	.
+Lists
+Tuples
+Dictionaries
+
+Sets
+FrozenSets
+
+Lists:
+------
+collection of data 
+heterogeneous --> mixture of data types  
+unlimited  --> no restricted length 
+mutable  --> modifications can be done
+
+indexed 
+sliced 
+concatenated
+
+names = ["Python" , 101 , 19 , 13 , "february"]
+nums = [ 1 , 2 , 2 , 5 , 6 , 8 , 3 ]
+
+type(names) --> list
+
+names = ["Python" , 101 , 19 , 13 , "february"]
+			0		1		2	3		4
+0 - n --> n = 4
+no of items = n+1 = 5
+
+membership operator --> in , not in
+
+repetition --> ["python"] * 5
+
+methods/ operations
+-------------------
+names = ["Python" , 101 , 19 , 13 , "february"]
+
+listName
+item
+index
+
+listName.append(item) -->add
+listName.pop()  --> remove
+listName.insert(index,item)-->special
+
+max(listName)
+min(listName)
+len(listName)
+listName.sort()-->special
+listName.reverse()-->special
+listName.count(item)
+
+concat = list1 + list2
+
+list1.extend(list2)
+
+List comprehensions: 
+--------------------
+mulTwo -->  y = [2 , 4 , 6 , 20]
+
+y = [i*2 for i in range(10)]
+
+[operation range condition]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
